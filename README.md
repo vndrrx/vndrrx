@@ -16,13 +16,24 @@
 
 ## 🧐 About
 
-- 🌱 Languages and Tools: 
+- 💻 Languages : 
 
     <div>
-        <code><img height="20" src="https://cdn.svgporn.com/logos/php-alt.svg"></code>
-        <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/php.svg"></code>
         <code><img height="20" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
         <code><img height="20" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/laravel.svg"></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
+    </div>
+    
+- 🛠 Tools : 
+
+    <div>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg"></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/adobe-after-effects.svg"></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg"></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/figma.svg"></code>
     </div>
 
 
