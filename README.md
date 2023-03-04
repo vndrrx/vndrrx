@@ -12,9 +12,10 @@
 
 ------------
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vndrrx&show_icons=true&theme=radical">
 
 ## 🧐 About
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=vndrrx&show_icons=true&theme=radical">
 
 - 💻 Languages : 
 
@@ -37,4 +38,4 @@
     </div>
 
 
-⭐️ From [Yaronzz](https://github.com/yaronzz)
+⭐️ From [vndrrx](https://github.com/vndrrx)
