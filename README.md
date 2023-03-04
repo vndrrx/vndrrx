@@ -16,11 +16,6 @@
 ## 🧐 About
 
 
-    <div>
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=vndrrx&show_icons=true&theme=radical">
-    </div>
-
-
 - 💻 Languages : 
 
     <div>
