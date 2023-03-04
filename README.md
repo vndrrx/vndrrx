@@ -16,8 +16,6 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog: http://yaronzz.top
-- 📫 How to reach me: yaronhuang@foxmail.com
 - 🌱 Languages and Tools: 
 
     <div>
