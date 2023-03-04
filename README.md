@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://www.instagram.com/vndrxc/?hl=id">vndrrx</a>.<br> I'm a Programming from Indonesia.<br><br>#php, #sql, #html, #atomicdvscode #css</samp>
+  <samp>Hello there. I'm <a href="https://www.instagram.com/vndrxc/?hl=id">vndrrx</a>.<br> I'm a Programming from Indonesia.<br><br>#php, #sql, #html, #css, ##atomicvscode</samp>
   <br>
   <br>
   <br>
