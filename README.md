@@ -10,6 +10,8 @@
   <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 </p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yaronzz&show_icons=true&hide_border=true">
+
 ------------
 
 ## 🧐 About
@@ -31,4 +33,4 @@
     </div>
 
 
-<p align="center">⭐️ From <a href="https://github.com/vndrrx">@vndrrx</a></p>
+⭐️ From [Yaronzz](https://github.com/yaronzz)
