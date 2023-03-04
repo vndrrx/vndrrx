@@ -15,7 +15,6 @@
 
 ## 🧐 About
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vndrrx&show_icons=true&theme=radical">
 
 - 💻 Languages : 
 
@@ -36,6 +35,9 @@
         <code><img height="20" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg"></code>
         <code><img height="20" src="https://cdn.svgporn.com/logos/figma.svg"></code>
     </div>
+    
+    
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=vndrrx&show_icons=true&theme=radical">
 
 
 ⭐️ From [vndrrx](https://github.com/vndrrx)
