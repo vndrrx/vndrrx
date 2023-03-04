@@ -7,7 +7,7 @@
   <br>
   <br>
   <br>
-  <img src="https://github.com/vndrrx/vndrrx/blob/main/preview.gif" width="700" />
+  <img src="https://github.com/vndrrx/vndrrx/blob/main/preview.gif" width="555" />
 </p>
 
 ------------
